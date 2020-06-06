@@ -1,4 +1,4 @@
-FROM jupyter/scipy-notebook:latest
+FROM jupyter/scipy-notebook:dc9744740e12
 
 # reset user to root for installing additional packages
 USER root
